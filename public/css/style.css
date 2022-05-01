@@ -1,0 +1,26 @@
+.container {
+    margin-top: 30px;
+}
+body {
+    background-color: #0d6efd;
+}
+a {
+    text-decoration: none;
+    color: #0d6efd;
+    font-weight: bold;
+    background-color: #333;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-weight: bold;
+}
+#btn-perguntar {
+    background-color: #333;
+    color: #0d6efd;
+    font-weight: bold;
+}
